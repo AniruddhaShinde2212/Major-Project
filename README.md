@@ -16,3 +16,4 @@ This project uses a camera to calculate the surface area of specific objects. By
 ## Technologies Used
 - **Python** for core logic and application development.
 - **OpenCV** for camera interfacing and object detection.
+- .
